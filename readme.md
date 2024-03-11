@@ -1,11 +1,11 @@
-### download the appropriate binary for your platform: formac, forwindows.exe, forlinux
+# download the appropriate binary for your platform: formac, forwindows.exe, forlinux
 
-## to encrypt
+### to encrypt
 ```bash
 ./formac encrypt /file/path
 ```
 
-## to decrypt
+### to decrypt
 ```bash
 ./formac decrypt /file/path   
 ```
